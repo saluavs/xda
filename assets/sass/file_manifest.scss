@@ -1,0 +1,19 @@
+//abstract
+    @import 'abstracts/variables';
+
+//base
+    @import 'base/base';
+    @import 'base/reset';
+
+//components
+    @import 'components/buttons';
+    @import 'components/inputs';
+
+
+//layout
+    @import 'layout/article';
+    @import 'layout/header';
+    @import 'layout/main';
+
+//vendors
+    @import 'vendors/bootstrap/scss/bootstrap.scss';

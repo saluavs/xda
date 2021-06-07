@@ -1,0 +1,9 @@
+.input {
+    margin-top: 10px!important;
+
+
+    @media (min-width: 576px) {
+        font-family: $raleway;
+        padding: 7px;
+    }
+}

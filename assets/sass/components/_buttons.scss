@@ -1,0 +1,24 @@
+
+.about__button {
+    font-family: $raleway;
+    padding: 8px;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    outline: none;
+    font-weight: bolder;
+    color: $smoky-black;
+    border-radius: 0px!important;
+    margin: 2rem 0;
+}
+@media only screen and (min-width: 992px) {
+    .container__title__vertical {
+        transform: rotate(90deg);
+        display: block;
+        font-size: 27px;
+        font-weight: bolder;
+        font-family: $old-standard;
+        margin-top: 40px;
+    }
+}
+
